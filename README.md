@@ -16,7 +16,7 @@ This tool keeps a history of your copied text, displays a **shortened preview** 
 
 1. Run the application in the background.  
 2. Every time you copy something, it will be stored in the clipboard history.  
-3. Press the **hotkey** (or open the popup) to view your clipboard history.  
+3. Press the **ctrl+alt+shift+V** (or open the popup) to view your clipboard history.  
 4. Select an item → It’s copied back to the clipboard and automatically pasted.
 
 ## 🧩 Installation
