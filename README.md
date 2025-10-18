@@ -22,7 +22,7 @@ This tool keeps a history of your copied text, displays a **shortened preview** 
 ## 🧩 Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/hasanyildiz/clipboard-history.git)
 cd clipboard-history
 maven clean package
 java jar clipboard-history-1.0-SNAPSHOT.jar
